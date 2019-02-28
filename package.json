@@ -1,6 +1,7 @@
 {
   "name": "jquery-guide",
   "title": "jQuery Guide",
+  "version": "1.0.1",
   "licenses": [
     {
       "type": "MIT",
@@ -10,7 +11,7 @@
   "dependencies": {
     "jquery": ">=1.11.1"
   },
-  "description": "A jQuery plugin that new layout or new features using guide",
+  "description": "fork from A jQuery plugin that new layout or new features using guide",
   "homepage": "https://github.com/panlatent/jquery-guide",
   "docs": "https://github.com/panlatent/jquery-guide",
   "demo": "http://panlatent.github.io/jquery-guide",
